@@ -10,9 +10,9 @@
 
       You can edit the below settings:
 */
-var anchorWidth = 4; // number in pixels, width of stroke
-var anchorSize = 20; // number in pixels, height/width of rectangle
-var handleSize = 25; // number in pixels, size of ellipse/orb where handle is grabbed
+var anchorWidth = 2; // number in pixels, width of stroke
+var anchorSize = 16; // number in pixels, height/width of rectangle
+var handleSize = 18; // number in pixels, size of ellipse/orb where handle is grabbed
 var anchorColor = newRGB(50, 50, 200); // RGB value, defaults to blue
 var anchorIsFilled = false; // Boolean, if true anchors are filled, otherwise have only stroke
 //
